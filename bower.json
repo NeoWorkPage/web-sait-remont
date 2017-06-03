@@ -1,0 +1,22 @@
+{
+  "name": "remont",
+  "description": "test websait remont-test",
+  "main": "",
+  "authors": [
+    "Sergei Zubkov"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize-css": "normalize.css#^7.0.0"
+  }
+}
